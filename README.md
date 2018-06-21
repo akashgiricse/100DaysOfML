@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
-## This is a **round 2** of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/06/2018 to 29/09/2018.
+## This is a round 2 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/06/2018 to 29/09/2018.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. |[Day 2](#day-2) **22/06/18**| _TODO_ |
+|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **22/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_|
 
 
 ----------
