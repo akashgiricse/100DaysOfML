@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **22/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_|
+|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **22/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ |
 
 
 ----------
