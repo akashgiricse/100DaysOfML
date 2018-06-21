@@ -4,12 +4,12 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **22/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ |
+|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **23/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ |
 
 
 ----------
 <a name="day-1"></a>
-### Day 1: June 21, 2018 
+### Day 1: June 22, 2018 
 
 **Today's Focus**: Begin learning Python for Data Science.
 
@@ -22,5 +22,22 @@
 
 
 **Link to work**: [Github](https://github.com/akashgiricse/introduction_to_data_science-analytics_vidhya/blob/master/BasicPythonForDataScience/Basic_Python_For_Data_Science.ipynb)
+
+[Table of Contents](#toc)
+
+----------
+<a name="day-2"></a>
+### Day 2: June 23, 2018 
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: _TODO_
 
 [Table of Contents](#toc)
