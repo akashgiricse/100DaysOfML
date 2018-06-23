@@ -35,9 +35,8 @@
 **Details**:
 
  - Started learning from the very basic terms in Statistics like: Mean, Median and Mode. Learn type of variable i.e. continuous and categorical variables.
- - Lear the concept of [Outliers](https://en.wikipedia.org/wiki/Outlier) and how they affect the dataset. Got familiar with the terms like [Quantile](https://en.wikipedia.org/wiki/Quantile), [Quartile](https://en.wikipedia.org/wiki/Quartile).
- - Then I started learning Spread of Data. I learned about Range, [IQR](https://en.wikipedia.org/wiki/Interquartile_range), [Variance of Data](https://en.wikipedia.org/wiki/Variance), [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation), [Frequency Table](http://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/frequency-distribution-table/) and [Histograms](https://en.wikipedia.org/wiki/Histogram)
-
+ - Lean the concept of [Outliers](https://en.wikipedia.org/wiki/Outlier) and how they affect the dataset. Got familiar with the terms like [Quantile](https://en.wikipedia.org/wiki/Quantile), [Quartile](https://en.wikipedia.org/wiki/Quartile).
+ - Then I started learning Spread of Data. I learned about Range, [IQR](https://en.wikipedia.org/wiki/Interquartile_range), [Variance of Data](https://en.wikipedia.org/wiki/Variance), [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation), [Frequency Table](http://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/frequency-distribution-table/) and [Histograms](https://en.wikipedia.org/wiki/Histogram).
 
 **Link to work**: [GitHub](https://github.com/akashgiricse/introduction_to_data_science-analytics_vidhya/blob/master/StatisticsForDataScience/StatisticsForDataScience.ipynb)
 
