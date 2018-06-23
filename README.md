@@ -4,7 +4,8 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **23/06/18**| _TODO_  _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ _TODO_ |
+|[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **23/06/18**| Statistics for Data Science: Central Tendency, Spread of Data, Data Distribution |
+
 
 
 ----------
@@ -29,15 +30,15 @@
 <a name="day-2"></a>
 ### Day 2: June 23, 2018 
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Begin learning Statistics for Data Science.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Started learning from the very basic terms in Statistics like: Mean, Median and Mode. Learn type of variable i.e. continuous and categorical variables.
+ - Lear the concept of [Outliers](https://en.wikipedia.org/wiki/Outlier) and how they affect the dataset. Got familiar with the terms like [Quantile](https://en.wikipedia.org/wiki/Quantile), [Quartile](https://en.wikipedia.org/wiki/Quartile).
+ - Then I started learning Spread of Data. I learned about Range, [IQR](https://en.wikipedia.org/wiki/Interquartile_range), [Variance of Data](https://en.wikipedia.org/wiki/Variance), [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation), [Frequency Table](http://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/frequency-distribution-table/) and [Histograms](https://en.wikipedia.org/wiki/Histogram)
 
 
-**Link to work**: _TODO_
+**Link to work**: [GitHub](https://github.com/akashgiricse/introduction_to_data_science-analytics_vidhya/blob/master/StatisticsForDataScience/StatisticsForDataScience.ipynb)
 
 [Table of Contents](#toc)
