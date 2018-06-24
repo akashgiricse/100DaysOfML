@@ -5,6 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **22/06/18**|Basic Python for Data Science. Data Structures. Pandas library. Data Frames. |[Day 2](#day-2) **23/06/18**| Statistics for Data Science: Central Tendency, Spread of Data, Data Distribution |
+|[Day 3](#day-3) **24/06/18**|Statistics for Data Science: Probability, Bernoulli Trials, PMF, Central Limit Theorem, Normal Distribution |[Day 4](#day-4) **25/06/18**| _TODO_ |
 
 
 
@@ -26,6 +27,7 @@
 
 [Table of Contents](#toc)
 
+
 ----------
 <a name="day-2"></a>
 ### Day 2: June 23, 2018 
@@ -39,5 +41,40 @@
  - Then I started learning Spread of Data. I learned about Range, [IQR](https://en.wikipedia.org/wiki/Interquartile_range), [Variance of Data](https://en.wikipedia.org/wiki/Variance), [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation), [Frequency Table](http://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/frequency-distribution-table/) and [Histograms](https://en.wikipedia.org/wiki/Histogram).
 
 **Link to work**: [GitHub](https://github.com/akashgiricse/introduction_to_data_science-analytics_vidhya/blob/master/StatisticsForDataScience/StatisticsForDataScience.ipynb)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-3"></a>
+### Day 3: June 24, 2018 
+
+**Today's Focus**: Begin learning Statistics for Data Science.
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [GitHub]()
+
+[Table of Contents](#toc)
+
+
+
+----------
+<a name="day-4"></a>
+### Day 4: June 25, 2018 
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_]()
 
 [Table of Contents](#toc)
