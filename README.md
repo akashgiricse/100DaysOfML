@@ -1,5 +1,5 @@
-# 100 Days Of Code - Log
-## This is a round 2 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/06/2018 to 29/09/2018.
+# 100 Days Of Code - Log (Challenge is postponed till 30th July due to internship.)
+<!-- ## This is a round 2 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 30/07/2018 to 06/11/2018.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
@@ -77,4 +77,4 @@
 
 **Link to work**: [_TODO_]()
 
-[Table of Contents](#toc)
+[Table of Contents](#toc) -->
