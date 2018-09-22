@@ -1,17 +1,17 @@
 # 100 Days Of Code - Log
-## This is a round 2 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 06/08/2018 to 14/11/2018.
+## This is a round 2 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/09/2018 to 31/12/2018.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **06/08/18**|_TODO_|[Day 2](#day-2) **07/08/18**| _TODO_ |
-|[Day 3](#day-3) **08/08/18**|_TODO_ |[Day 4](#day-4) **09/08/18**| _TODO_ |
+|[Day 1](#day-1) **22/09/18**|_TODO_|[Day 2](#day-2) **23/09/18**| _TODO_ |
+|[Day 3](#day-3) **24/09/18**|_TODO_ |[Day 4](#day-4) **25/09/18**| _TODO_ |
 
 
 
 ----------
 <a name="day-1"></a>
-### Day 1: August 06, 2018 
+### Day 1: September 22, 2018 
 
 **Today's Focus**: _TODO_
 
@@ -29,7 +29,7 @@
 
 ----------
 <a name="day-2"></a>
-### Day 2: August 07, 2018 
+### Day 2: September 23, 2018 
 
 **Today's Focus**: _TODO_
 
@@ -46,7 +46,7 @@
 
 ----------
 <a name="day-3"></a>
-### Day 3: August 08, 2018 
+### Day 3: September 24, 2018 
 
 **Today's Focus**: _TODO_
 
@@ -64,7 +64,7 @@
 
 ----------
 <a name="day-4"></a>
-### Day 4: August 09, 2018 
+### Day 4: September 25, 2018 
 
 **Today's Focus**: _TODO_
 
