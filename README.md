@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **24/11/18**|_TODO_|[Day 2](#day-2) **25/11/18**| _TODO_ |
+|[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| _TODO_ |
 |[Day 3](#day-3) **26/11/18**|_TODO_ |[Day 4](#day-4) **27/11/18**| _TODO_ |
 
 
@@ -13,13 +13,15 @@
 <a name="day-1"></a>
 ### Day 1: November 24, 2018 
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Started Andrew Ng's course "Machine Learning" on Coursera 
+ - Supervised Learning: Dataset where we know the correct output, Unsupervised Learning: No idea what our result sould look like. 
+ - Model Representation: Training set notation, Hypothesis function *h(x)*. 
+ - Cost Function: To measure the accuracy of hpythesis function.
+ - Contour plot: A contour plot is a graph that contains many contour lines. A contour line of a two variable function has a constant value at all points of the same line.
 
 
 **Link to work**: _TODO_
