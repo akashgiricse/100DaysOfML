@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| _TODO_ |
+|[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| Linear regression with one variable. Gradient descent algorithm. Linear Algebra: Matrices and vectors. |
 |[Day 3](#day-3) **26/11/18**|_TODO_ |[Day 4](#day-4) **27/11/18**| _TODO_ |
 
 
@@ -33,15 +33,14 @@
 <a name="day-2"></a>
 ### Day 2: November 25, 2018
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Linear regression with one variable. Gradient descent algorithm. Linear Algebra: Matrices and vectors.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Linear regression with one variable: Gradient descent algorithms. Learn how to use gradient descent algorithms on linear regression model.
+ - Linear Algebra: Matrices and Vectors. Matrix-vector multiplication. Matrix-Matrix multiplication. Matrix multiplication properties: not commutative. Identity Matrix. Matrix inverse and Matrix transpose. 
 
-**Link to work**: _TODO_
+**Link to work**: [Here](https://github.com/akashgiricse/ml-andrew-ng)
 
 [Table of Contents](#toc)
 
