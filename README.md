@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| Linear regression with one variable. Gradient descent algorithm. Linear Algebra: Matrices and vectors. |
-|[Day 3](#day-3) **26/11/18**|_TODO_ |[Day 4](#day-4) **27/11/18**| _TODO_ |
+|[Day 3](#day-3) **26/11/18**| Multivariate Linear Regression. Features and Polynomial Regression. |[Day 4](#day-4) **27/11/18**| _TODO_ |
 
 
 
@@ -49,15 +49,17 @@
 <a name="day-3"></a>
 ### Day 3: November 26, 2018 
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Multivariate Linear Regression. Features and Polynomial Regression.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Notation for multiple feature. Hypothesis function, cost function and Gradient descent for multiple feature. 
+ - Feature Scaling: The main purpose of feature scaling is to make gradient descent obtain global optimum minima. We try to make every feature into -1 to +1 range. 
+ - For feature scaling we use Mean Normalization.
+ - Debugging: To make sure that our gradient descent is working correctly. And for that how to choose value of learning rate i.e. α. So basically we declare convergence if J(θ) i.e. Cost function decreases by less than 10^(-3). But this value is not fix. So we need to choose α such that the for every iteration, cost function is decreasing but also make sure that it's not decreasing very slow.
+ - Features and Polynomial Regression: We can decrease the number of feature by combining then into one feature. For example, we can decrease **width** and **lenght** into **area**. We can also use polynomial regression to fit into out data set. 
 
-**Link to work**: [GitHub]()
+**Link to work**: [Here](https://github.com/akashgiricse/ml-andrew-ng)
 
 [Table of Contents](#toc)
 
