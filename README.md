@@ -79,7 +79,7 @@
  - Normal Equation: Method to solve for θ analytically. 
  - How do we choose between Gradient Descent and Normal Equation to solve for θ.
  	- Gradient Descent when need to choose α, needs many iterations. This works well even when n(features) is large.
- 	- Normal Equation when no need to choose α and don't need iteration. This algo slows down when the number of feature is very large because computation of **(X(transpose)X)inverse** has O(n3) complexity.
+ 	- Normal Equation when no need to choose α and don't need iteration. This algo slows down when the number of feature is very large because computation of **(X(transpose)X)inverse** has O(n3) (i.e Big Oh of N cube) complexity.
  - If **X(transpose)X** is non-invertible then generaly it is a sign that either we have redundant features (linearly dependent) or there are too many features.
 
 **Link to work**: [Here](https://github.com/akashgiricse/ml-andrew-ng)
