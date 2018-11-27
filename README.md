@@ -5,7 +5,10 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| Linear regression with one variable. Gradient descent algorithm. Linear Algebra: Matrices and vectors. |
-|[Day 3](#day-3) **26/11/18**| Multivariate Linear Regression. Features and Polynomial Regression. |[Day 4](#day-4) **27/11/18**| _TODO_ |
+|[Day 3](#day-3) **26/11/18**| Multivariate Linear Regression. Features and Polynomial Regression. |[Day 4](#day-4) **27/11/18**| Computing Parameters Analytically: Normal Equation, Normal Equation Noninvertibility |
+|[Day 5](#day-5) **28/11/18**| _TODO_ |[Day 6](#day-6) **29/11/18**| _TODO_ |
+|[Day 7](#day-7) **30/11/18**| _TODO_ |[Day 8](#day-8) **01/12/18**| _TODO_ |
+
 
 
 
@@ -68,6 +71,76 @@
 ----------
 <a name="day-4"></a>
 ### Day 4: November 27, 2018
+
+**Today's Focus**: Computing Parameters Analytically: Normal Equation, Normal Equation Noninvertibility
+
+**Details**:
+
+ - Normal Equation: Method to solve for θ analytically. 
+ - How do we choose between Gradient Descent and Normal Equation to solve for θ.
+ 	- Gradient Descent when need to choose α, needs many iterations. This works well even when n(features) is large.
+ 	- Normal Equation when no need to choose α and don't need iteration. This algo slows down when the number of feature is very large because computation of **(X(transpose)X)inverse** has O(n3) complexity.
+ - If **X(transpose)X** is non-invertible then generaly it is a sign that either we have redundant features (linearly dependent) or there are too many features.
+
+**Link to work**: [Here](https://github.com/akashgiricse/ml-andrew-ng)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-5"></a>
+### Day 4: November 28, 2018
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_]()
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-6"></a>
+### Day 4: November 29, 2018
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_]()
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-7"></a>
+### Day 4: November 30, 2018
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_]()
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-8"></a>
+### Day 4: December 01, 2018
 
 **Today's Focus**: _TODO_
 
