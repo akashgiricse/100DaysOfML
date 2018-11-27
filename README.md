@@ -89,7 +89,7 @@
 
 ----------
 <a name="day-5"></a>
-### Day 4: November 28, 2018
+### Day 5: November 28, 2018
 
 **Today's Focus**: _TODO_
 
@@ -106,7 +106,7 @@
 
 ----------
 <a name="day-6"></a>
-### Day 4: November 29, 2018
+### Day 6: November 29, 2018
 
 **Today's Focus**: _TODO_
 
@@ -123,7 +123,7 @@
 
 ----------
 <a name="day-7"></a>
-### Day 4: November 30, 2018
+### Day 7: November 30, 2018
 
 **Today's Focus**: _TODO_
 
@@ -140,7 +140,7 @@
 
 ----------
 <a name="day-8"></a>
-### Day 4: December 01, 2018
+### Day 8: December 01, 2018
 
 **Today's Focus**: _TODO_
 
