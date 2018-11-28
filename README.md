@@ -92,6 +92,7 @@
 ### Day 5: November 28, 2018
 
 **Today's Focus**: Octave/Matlab Tutorial
+
 **Details**:
 
  - Basic Operations, Moving data around, Computing on Data, Plotting data
