@@ -6,7 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **24/11/18**| Introduction to Machine Learnning. Supervised vs Unsupervised Learning. Model and Cost function. |[Day 2](#day-2) **25/11/18**| Linear regression with one variable. Gradient descent algorithm. Linear Algebra: Matrices and vectors. |
 |[Day 3](#day-3) **26/11/18**| Multivariate Linear Regression. Features and Polynomial Regression. |[Day 4](#day-4) **27/11/18**| Computing Parameters Analytically: Normal Equation, Normal Equation Noninvertibility |
-|[Day 5](#day-5) **28/11/18**| Octave/Matlab Tutorial |[Day 6](#day-6) **29/11/18**| _TODO_ |
+|[Day 5](#day-5) **28/11/18**| Octave/Matlab Tutorial |[Day 6](#day-6) **29/11/18**| Octave Tutorial and it's implementation on previously learned topics. |
 |[Day 7](#day-7) **30/11/18**| _TODO_ |[Day 8](#day-8) **01/12/18**| _TODO_ |
 
 
@@ -109,15 +109,15 @@
 <a name="day-6"></a>
 ### Day 6: November 29, 2018
 
-**Today's Focus**: _TODO_
+**Today's Focus**: Octave Tutorial and it's implementation on previously learned topics.
 
 **Details**:
 
- - _TODO_
- - _TODO_
- - _TODO_
+ - Implemented previously learned topics in Octave.
+ - Vectorized and Unvectorized implementation in octave.
+ - Learned working on and submitting Programming Assignments on Coursera.
 
-**Link to work**: [_TODO_]()
+**Link to work**: [Here](https://github.com/akashgiricse/ml-andrew-ng)
 
 [Table of Contents](#toc)
 
